@@ -1,3 +1,4 @@
+// Collaborated with Team Hayden to successfully complete project 
 let computerChoice = ''
 let button = document.querySelectorAll('.button')
 button.forEach((allButton) => {
@@ -82,3 +83,4 @@ button.forEach((allButton) => {
 //
 //     request.send();
 // }
+// Collaborated with Team Hayden to successfully complete project 
